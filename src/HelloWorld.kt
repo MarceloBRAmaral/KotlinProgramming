@@ -3,4 +3,5 @@ fun main() {
     val age = 23
     println(str)
     println(age)
+    println("$str $age")
 }
